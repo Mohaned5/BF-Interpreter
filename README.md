@@ -13,6 +13,21 @@ Explore sophisticated Brainf*** programs provided in the repo, including program
 ## Usage
 
 Run the interpreter on Brainf*** programs written in the specified format. The interpreter supports the standard Brainf*** commands, allowing you to experiment with various programs. The provided examples demonstrate the language's potential for creating complex visual patterns and mathematical representations.
+To run each:
+
+    run4(load_bff("benchmark.bf"))
+    run4(load_bff("sierpinski.bf"))
+    run4(load_bff("mandelbrot.bf"))
+    run4(load_bff("collatz.bf"))
+
+To measure time taken to run each:
+
+    time_needed(1, run4(load_bff("benchmark.bf")))
+    time_needed(1, run4(load_bff("sierpinski.bf"))) 
+    time_needed(1, run4(load_bff("mandelbrot.bf")))
+    time_needed(1, run4(load_bff("collatz.bf")))
+
+
 
 ## Additional Resources
 
