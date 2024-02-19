@@ -29,6 +29,3 @@ To measure time taken to run each:
 
 
 
-## Additional Resources
-
-Check out a dedicated Windows IDE for Brainfuck programs: Brainf*** IDE on Microsoft Store. Explore the possibilities and challenges of Brainfuck programming, and immerse yourself in the fascinating world of esoteric languages.
